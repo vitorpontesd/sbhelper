@@ -1,0 +1,21 @@
+{
+	"modListVersion": 2,
+	"modList": [{
+		"modid": "sbhelper",
+		"name": "SkinBridge Helper",
+		"description": "Mod para ser usado junto com o SkinPort, que permite que jogadores sobreponham suas skins oficiais",
+		"version": "1.0",
+		"mcversion": "1.7.10",
+		"url": "",
+		"updateUrl": "",
+		"authorList": ["vitorp"],
+		"credits": "",
+		"logoFile": "",
+		"screenshots": [],
+		"parent": "",
+		"requiredMods": [],
+		"dependencies": [],
+		"dependants": [],
+		"useDependencyInformation": false
+	}]
+}
